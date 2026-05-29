@@ -1,3 +1,5 @@
+# Este código escanea la carpeta y subcarpetas en la ruta que le pases, buscando fotos y luego listando las que ha encontrado y prodrían ser poteciales dupes.
+
 import os
 from PIL import Image
 import imagehash
